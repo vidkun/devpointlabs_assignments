@@ -1,3 +1,6 @@
+# Different implementations of the fizzbuzz test.
+# Refactored to achieve the shortest possible implementation
+#
 # (1..100).each do |n|
 # 	if n % 3 == 0
 # 		p n % 5 == 0 ? "FizzBuzz" : "Fizz"
